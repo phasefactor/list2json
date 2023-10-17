@@ -1,0 +1,97 @@
+#
+# most common trackers, sourced from:
+# https://whotracks.me/trackers.html
+#
+# did not include ALL domains because it would completely block google.com, etc
+
+# google tag manager
+googletagmanager.com/
+googletagservices.com/
+
+# doubleclick
+2mdn.net/
+doubleclick.net/
+invitemedia.com/
+
+# google analytics
+google-analytics.com/
+googleanalytics.com/
+
+# amazon advertising
+amazon-adsystem.com/
+serving-sys.com/
+sizmek.com/
+
+# scorecard research
+scorecardresearch.com/
+scoreresearch.com/
+scrsrch.com/
+securestudies.com/
+
+# google syndication
+googlesyndication.com/
+
+# criteo
+criteo.com/
+criteo.net/
+
+# sentry
+d3nslu0hdya83q.cloudfront.net/
+getsentry.com/
+ravenjs.com/
+sentry.io/
+
+# rubicon project
+dpclk.com/
+mobsmith.com/
+nearbyad.com/
+rubiconproject.com/
+
+# pubmatic
+pubmatic.com/
+
+# tiktok analytics
+analytics.tiktok.com/
+
+# index exchange
+casalemedia.com/
+indexww.com/
+
+# integral ad science
+adsafeprotected.com/
+iasds01.com/
+
+# smart adserver
+sascdn.com/
+smartadserver.com/
+
+# adform
+adform.net/
+adformdsp.net/
+
+# venatus media
+vntsm.com/
+venatusmedia.com/
+
+# liveramp
+pippio.com/
+rapleaf.com/
+rlcdn.com/
+
+# ad-delivery.net
+ad-delivery.net/
+
+# exelate
+exelator.com/
+
+# appnexus
+adnxs.com/
+adnxs.net/
+
+# just premium
+justpremium.com/
+justpremium.nl/
+
+# captify
+captifymedia.com/
+cpx.to/

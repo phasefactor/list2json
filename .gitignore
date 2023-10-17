@@ -1,0 +1,10 @@
+# General
+.DS_Store
+
+# Thumbnails
+._*
+
+# User settings
+*.xcodeproj/*
+*.xcworkspace/*
+!*.xcodeproj/project.pbxproj
