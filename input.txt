@@ -31,9 +31,13 @@ securestudies.com/
 # google syndication
 googlesyndication.com/
 
-# criteo
-criteo.com/
-criteo.net/
+# cloudflare insights
+cloudflareinsights.com/
+
+# new relic
+d1ros97qkrwjf5.cloudfront.net/
+newrelic.com/
+nr-data.net/
 
 # sentry
 d3nslu0hdya83q.cloudfront.net/
@@ -41,21 +45,113 @@ getsentry.com/
 ravenjs.com/
 sentry.io/
 
+# criteo
+criteo.com/
+criteo.net/
+
+# adobe audience manager
+demdex.net/
+everestjs.net/
+everesttech.net/
+
+# quantcast
+quantcast.com/
+quantserve.com/
+
+# appnexus
+adnxs.com/
+adnxs.net/
+
+# yandex metrika
+mc.yandex.ru/
+
+# google ad services
+googleadservices.com/
+
+# twitter advertising
+ads-twitter.com/
+
+# taboola
+basebanner.com/
+taboola.com/
+taboolasyndication.com/
+
+# hotjar
+hotjar.com/
+
 # rubicon project
 dpclk.com/
 mobsmith.com/
 nearbyad.com/
 rubiconproject.com/
 
+# chartbeat
+chartbeat.com/
+chartbeat.net/
+
 # pubmatic
 pubmatic.com/
+
+# outbrain
+outbrain.com/
+outbrainimg.com/
 
 # tiktok analytics
 analytics.tiktok.com/
 
+# soasta impulse
+go-mpulse.net/
+mpstat.us/
+tiaa-cref.org/
+
+# yandex
+awaps.yandex.ru/
+d31j93rd8oukbv.cloudfront.net/
+webvisor.org/
+yandex.net/
+yandex.ru/
+yastatic.net/
+
 # index exchange
 casalemedia.com/
 indexww.com/
+
+# netratings sitecensus
+glanceguide.com/
+imrworldwide.com/
+vizu.com/
+
+# tradedesk
+adsrvr.org/
+
+# optimizely
+optimizely.com/
+
+# microsoft clarity
+clarity.ms/
+
+# linkedin analytics
+snap.licdn.com/
+
+# liveramp
+pippio.com/
+rapleaf.com/
+rlcdn.com/
+
+# adobe experience cloud
+2o7.net/
+du8783wkf05yr.cloudfront.net/
+hitbox.com/
+imageg.net/
+nedstat.com/
+omtrdc.net/
+sitestat.com/
+
+# qualtrics
+qualtrics.com/
+
+# gemius
+gemius.pl/
 
 # integral ad science
 adsafeprotected.com/
@@ -65,9 +161,289 @@ iasds01.com/
 sascdn.com/
 smartadserver.com/
 
+# jetpack
+pixel.wp.com/
+stats.wp.com/
+
+# triplelift
+3lift.com/
+d3iwjrnl4m67rd.cloudfront.net/
+triplelift.com/
+
+# openx
+odnxs.net/
+openx.net/
+openx.org/
+openxenterprise.com/
+servedbyopenx.com/
+
+# rtb house
+creativecdn.com/
+
+# amplitude
+amplitude.com/
+d24n15hnbwhuhn.cloudfront.net/
+
+# at internet
+ati-host.net/
+aticdn.net/
+xiti.com/
+
 # adform
 adform.net/
 adformdsp.net/
+
+# teads
+teads.tv/
+
+# cxense
+cxense.com/
+
+# baidu ads
+baidu.com/
+baidustatic.com/
+
+# traffic stars
+trafficstars.com/
+tsyndicate.com/
+
+# piano
+npttech.com/
+tinypass.com/
+
+# segment
+d2dq2ahtl5zl1z.cloudfront.net/
+d47xnnr8b1rki.cloudfront.net/
+segment.com/
+segment.io/
+
+# id5 sync
+eu-1-id5-sync.com/
+id5-sync.com/
+
+# addthis
+addthis.com/
+addthiscdn.com/
+addthisedge.com/
+
+# shopify stats
+shopify.com/
+
+# dotmetrics
+dotmetrics.net/
+
+# moat
+moatads.com/
+moatpixel.com/
+
+# bugsnag
+bugsnag.com/
+d2wy8f7a9ursnm.cloudfront.net/
+
+# sharethis
+sharethis.com/
+
+# yahoo analytics
+analytics.yahoo.com/
+
+# media.net
+media.net/
+
+# doubleverify
+doubleverify.com/
+
+# hubspot
+hs-analytics.net/
+hs-scripts.com/
+hsleadflows.net/
+hubapi.com/
+hubspot.com/
+
+# sharethrough
+shareth.ru/
+sharethrough.com/
+
+# bidswitch
+bidswitch.net/
+exe.bid/
+
+# exoclick
+exdynsrv.com/
+exoclick.com/
+exosrv.com/
+
+# mixpanel
+mixpanel.com/
+mxpnl.com/
+mxpnl.net/
+
+# 1plusx
+opecloud.com/
+
+# brandmetrics
+brandmetrics.com/
+
+# parse.ly
+d1z2jf7jlzjs58.cloudfront.net/
+parsely.com/
+
+# sovrn
+d3pkae9owd2lcf.cloudfront.net/
+lijit.com/
+
+# linkedin ads
+ads.linkedin.com/
+
+# forter
+forter.com/
+
+# quantum metric
+quantummetric.com/
+
+# speedcurve
+speedcurve.com/
+
+# bluekai
+bkrtx.com/
+bluekai.com/
+
+# onetag
+onetag.com/
+s-onetag.com/
+
+# mediascope
+tns-counter.ru
+
+# crazy egg
+cetrk.com/
+crazyegg.com/
+dnn506yrbagrg.cloudfront.net/
+
+# ab tasty
+abtasty.com/
+d1447tq2m68ekg.cloudfront.net/
+
+# traffic factory
+trafficfactory.biz/
+
+# histats
+histats.com/
+
+# improve digital
+360yield.com/
+
+# lotame
+crwdcntrl.net/
+
+# branch
+app.link/
+branch.io/
+
+# live intent
+liadm.com/
+
+# nativo
+ntv.io/
+postrelease.com/
+
+# bidgear
+bidgear.com/
+
+# mark monitor
+caanalytics.com/
+mmstat.com/
+
+# adtng
+adtng.com/
+
+# permutive
+permutive.com/
+
+# digital window
+dwin1.com/
+
+# skimlinks
+redirectingat.com/
+skimlinks.com/
+skimresources.com/
+
+# braze
+appboycdn.com/
+
+# beeswax
+bidr.io
+
+# stickyads
+stickyadstv.com/
+
+# viglink
+viglink.com/
+
+# vwo
+d5phz18u4wuww.cloudfront.net/
+visualwebsiteoptimizer.com/
+wingify.com/
+
+# pub.network
+pub.network/
+
+# microad
+microad.co.jp/
+microad.jp/
+microad.net/
+microadinc.com/
+
+# infonline
+ioam.de/
+iocnt.net/
+ivwbox.de/
+
+# ad lightning
+adlightning.com/
+
+# adyoulike
+adyoulike.com/
+omnitagjs.com/
+
+# heap
+d36lvucg9kzous.cloudfront.net/
+heapanalytics.com/
+
+# mailchimp tracking
+chimpstatic.com/
+list-manage.com/
+mailchimp.com/
+
+# appsflyer
+appsflyer.com/
+
+# klaviyo
+klaviyo.com/
+
+# pendo
+pendo.io/
+
+# aggregate knowledge
+agkn.com/
+
+# sailthru horizon
+sail-horizon.com/
+sail-personalize.com/
+sailthru.com/
+
+# highwebemedia.com
+highwebmedia.com/
+
+# tapad
+tapad.com/
+
+# line
+line-apps.com/
+line-scdn.net/
+line.me/
+
+# mail.ru
+ad.mail.ru/
 
 # venatus media
 vntsm.com/
@@ -83,10 +459,6 @@ ad-delivery.net/
 
 # exelate
 exelator.com/
-
-# appnexus
-adnxs.com/
-adnxs.net/
 
 # just premium
 justpremium.com/
