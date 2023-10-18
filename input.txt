@@ -2,7 +2,7 @@
 # most common trackers, sourced from:
 # https://whotracks.me/trackers.html
 #
-# did not include ALL domains because it would completely block google.com, etc
+# first 400-ish entries in the Site Analytics and Advertising categories.
 
 # google tag manager
 googletagmanager.com/
@@ -445,25 +445,462 @@ line.me/
 # mail.ru
 ad.mail.ru/
 
+# who.amung.us
+amung.us/
+
+# hubvisor
+hubvisor.io/
+
+# spotx
+spotx.tv/
+spotxcdn.com/
+spotxchange.com/
+
+# connatix
+connatix.com/
+
+# 33across
+33across.com/
+
+# datadome
+datadome.co/
+
+# gfk
+sensic.net/
+
+# contentsquare
+contentsquare.net/
+
+# salesforce dmp
+krxd.net/
+
+# dotomi
+dotomi.com/
+dtmc.com/
+dtmpub.com/
+
+# cedexis radar
+cedexis-radar.net/
+cedexis-test.com/
+cedexis.com/
+cedexis.fastlylb.net/
+cedexis.net/
+
+# kameleoon
+kameleoon.com/
+kameleoon.eu/
+
+# tvsquared
+tvsquared.com/
+
+# gigya
+analytics.gigyahosting1.com/
+gigcount.com/
+gigya.com/
+
+# yandex.direct
+an.yandex.ru/
+bs.yandex.ru/
+
+# vg wort
+vgwort.de/
+
+# facebook social graph
+graph.facebook.com/
+
+# appdynamics
+appdynamics.com/
+de8of677fyt0b.cloudfront.net/
+eum-appdynamics.com/
+
+# statcounter
+statcounter.com/
+
+# civicscience
+civicscience.com/
+
+# ispot.tv
+ispot.tv/
+
+# fullstory
+fullstory.com/
+
+# adition
+adition.com/
+
 # venatus media
 vntsm.com/
 venatusmedia.com/
 
-# liveramp
-pippio.com/
-rapleaf.com/
-rlcdn.com/
+# adscale
+adscale.de/
+
+# treasure data
+treasuredata.com/
+
+# yieldlab
+yieldlab.net/
+yieldlab.de/
+
+# sift science
+dtlilztwypawv.cloudfront.net/
+siftscience.com/
+
+# cquotient
+cquotient.com/
+
+# yieldmo
+yieldmo.com/
+
+# revcontent
+revcontent.com/
+
+# stackadapt
+stackadapt.com/
+
+# weborama
+adrcdn.com/
+adrcntr.com/
+weborama.com/
+weborama.fr/
+
+# freewheel
+fwmrm.net/
+
+# marketgid
+dt00.net/
+dt07.net/
+marketgid.com/
+mgid.com/
+
+# flashtalking
+flashtalking.com/
+
+# yahoo ad manager
+pr-bh.ybp.yahoo.com/
+
+# intimate merger
+im-apps.net/
+
+# marketo
+marketo.com/
+marketo.net/
+mktoresp.com/
+
+# yieldlove
+yieldlove-ad-serving.net/
+yieldlove.com/
+
+# juicyads
+juicyads.com/
+
+# adroll
+adroll.com/
 
 # ad-delivery.net
 ad-delivery.net/
 
+# bounce exchnage
+bounceexchange.com/
+
+# sonobi
+sonobi.com/
+
+# grapeshot
+grapeshot.co.uk/
+gscontxt.net/
+
+# pulsepoint
+contextweb.com/
+pulsepoint.com/
+
+# supership
+socdm.com/
+
+# algolia
+algolia.com/
+algolia.net/
+
+# x analytics
+analytics.twitter.com/
+
+# mediavine exchange
+mediavine.com/
+
+# gumgum
+gumgum.com/
+
+# unrulymedia
+unrulymedia.com/
+
+# quantcount
+quantcount.com/
+
+# alexa metrics
+alexametrics.com/
+d31qbv1cthcecs.cloudfront.net/
+d5nxst8fruw4z.cloudfront.net/
+
+# eyeota
+eyeota.net/
+
+# clever push
+cleverpush.com/
+
+# bombora
+ml314.com/
+
+# kenshoo
+xg4ken.com/
+
+# rambler
+rambler.ru/
+top100.ru/
+
+# verizon media
+adsdk.com/
+advertising.com/
+aol.com/
+atwola.com/
+pictela.net/
+verizonmedia.com/
+
+# adriver
+adriver.ru/
+
+# captify
+captifymedia.com/
+cpx.to/
+
+#rhythmone beacon
+1rx.io/
+
+# pingdom
+pingdom.net/
+
+# adobe dynamic media
+scene7.com/
+
 # exelate
 exelator.com/
+
+# conviva
+conviva.com/
+
+# nitropay
+nitropay.com/
+
+# arkose labs
+arkoselabs.com/
+
+# turn inc.
+turn.com/
+
+# simpli.fi
+simpli.fi/
+
+# comscore inc
+comscore.com/
+zqtk.net/
+
+# keywee
+keywee.co/
+
+# true anthem
+tru.am/
+
+# sitescout by centro
+pixel.ad/
+sitescout.com/
+
+# bluetriangle
+bluetriangletech.com/
+btttag.com/
+
+# scarab research
+scarabresearch.com/
+
+# seedtag
+seedtag.com/
+
+# anonymous ads
+a-ads.com/
+
+# united internet media
+tifbs.net/
+ui-portal.de/
+uimserv.net/
+
+# ninja access analytics
+cho-chin.com/
+donburako.com/
+hishaku.com/
+shinobi.jp/
+
+# the adex
+theadex.com/
+
+# xaxis
+mookie1.com/
+
+# monetate
+monetate.net/
+
+# smaato
+smaato.net/
+
+# mediamath
+mathads.com/
+mathtag.com/
+
+# fluct
+adingo.jp/
+
+# mercado
+mercadoclics.com/
+mercadolivre.com.br/
+mlstatic.com/
+
+# dataxu
+w55c.net/
+
+# eloqua
+eloqua.com/
+en25.com/
+
+# digiteka
+digiteka.net/
+ultimedia.com/
+
+# catchpoint
+3gl.net/
 
 # just premium
 justpremium.com/
 justpremium.nl/
 
+# chaturbate
+chaturbate.com/
+
+# platform one
+impact-ad.jp/
+
+# viafoura
+viafoura.com/
+viafoura.net/
+
+# adocean
+adocean.pl/
+
+# rakuten
+rakuten.co.jp/
+trafficgate.net/
+
+# i mobile
+i-mobile.co.jp/
+
+# demand base
+company-target.com/
+demandbase.com/
+
+# tribal fusion
+exponential.com/
+tribalfusion.com/
+
+# stroer digital media
+interactivemedia.net/
+stroeerdigitalgroup.de/
+stroeerdigitalmedia.de/
+stroeerdp.de/
+stroeermediabrands.de/
+
+# mbr targeting
+m6r.eu/
+
+# Wirtualna Polska
+wp.pl/
+wpimg.pl/
+
+# seeding alliance
+bacontent.de/
+nativendo.de/
+
+# estat
+cybermonitor.com/
+estat.com/
+
+# conversant
+fastclick.net/
+mediaplex.com/
+mplxtms.com/
+
+# hybrid ai
+hybrid.ai/
+targetix.net/
+
+# nakanohito
+nakanohito.jp/
+
+# sublime
+ayads.co/
+
+# mouseflow
+mouseflow.com/
+
+# dynatrace
+dynatrace.com/
+
+# kargo
+kargo.com/
+
+# digital.gov
+digitalgov.gov/
+
+# adrecover
+adrecover.com/
+
+# digioh
+digioh.com/
+lightboxcdn.com/
+
+# sirdata
+sddan.com/
+
+# wysistat
+wysistat.com/
+wysistat.net/
+
+# dmm
+dmm.co.jp/
+
+# adman media
+admanmedia.com/
+
+# realytics
+dcniko1cv0rz.cloudfront.net/
+realytics.io/
+
+# admantx
+admantx.com/
+
+# bidtellect
+bttrack.com/
+
+# mediarithmics
+mediarithmics.com/
+
+# adgear
+adgear.com/
+adgrx.com/
+
+# decibel insight
+decibelinsight.net/
+
 # captify
 captifymedia.com/
 cpx.to/
+
+# liveramp
+pippio.com/
+rapleaf.com/
+rlcdn.com/
