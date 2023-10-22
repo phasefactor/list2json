@@ -1,4 +1,30 @@
 #
+# Other trackers not covered by whotracks.me list from common sites.
+#
+
+# chess.com :
+chess.com/bundles/app/js/global-ads
+iterable.com/
+amplitude.chess.com/
+
+# Aditude Inc (used by chess.com)
+dn0qt3r0xannq.cloudfront.net/
+aditude.io/
+yellowblue.io/
+4dex.io/
+cootlogix.com/
+
+# fandom wiki
+beacon.wikia-services.com/
+ad.gt/
+durationmedia.net/
+hadronid.net/
+servenobid.com/
+ssp.yahoo.com/
+
+
+
+#
 # most common trackers, sourced from:
 # https://whotracks.me/trackers.html
 #
@@ -904,3 +930,8 @@ cpx.to/
 pippio.com/
 rapleaf.com/
 rlcdn.com/
+
+# yahoo ad exchange
+ads.yahoo.com/
+yads.yahoo.com/
+yieldmanager.com/

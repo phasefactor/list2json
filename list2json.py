@@ -37,13 +37,13 @@ output = open("output.txt", "w")
 output.writelines("[\r")
 
 # change to list mostly to make it easy to check for the last item
-domains = list(domains)
+domains = sorted(list(domains))
 
 # loop through the list of domains
 for domain in domains:
     count += 1
     
-    s = "{ \"id\":"+str(count)+",\"priority\":1,\"action\":{\"type\":\"block\"},\"condition\":{\"regexFilter\":\"http(s)?://(.*\\\\.)?"+domain+".*\",}}"
+    s = "{ \"id\":"+str(count)+",\"priority\":1,\"action\":{\"type\":\"block\"},\"condition\":{\"regexFilter\":\"http(s)?://(.*\\\\.)?"+domain+".*\"}}"
     
     # leave off the last comma
     if domain != domains[-1]:
