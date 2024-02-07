@@ -2,6 +2,29 @@
 # Other trackers not covered by whotracks.me list from common sites.
 #
 
+# testing - generic 
+#.*/prebid[0-9]+.js
+#.*/ad(s)?[^/].js
+
+
+#
+# weird "used to track copyrighted content for DMCA" sites
+# maybe associated with the "admiral" brand, also does anti-ad block
+#
+merequartz.com/
+cozyhillside.com/
+skillfuldrop.com/
+ancientact.com/
+hospitablehall.com/
+scissorsstatement.com/
+flowerstreatment.com/
+laboredlocket.com/
+
+#
+# anti-ad-blockers
+#
+unblockia.com/
+
 # chess.com :
 chess.com/bundles/app/js/global-ads
 iterable.com/
@@ -22,7 +45,66 @@ hadronid.net/
 servenobid.com/
 ssp.yahoo.com/
 
+# slashdot
+deals.slashdot.org/
+pro-market.net/
+widgets.jobbio.com/
+analytics.slashdotmedia.com/
 
+# random ads, trackers, and annoyances
+privacymanager.io/
+adsninja.ca/
+marfeelrev.com/
+succeedscene.com/
+onetag-sys.com/
+marphezis.com/
+carbonads.com/
+adthrive.com/
+primis.tech/
+assemblyexchange.com/
+cookielaw.org/
+ethicalads.io/
+uniconsent.com/
+servedby-buysellads.com/
+cookiebot.com/
+tiqcdn.com/
+matheranalytics.com/
+fullcontact.com/
+securiti.ai/
+ezodn.com/
+analytics.wask.co/
+tradedoubler.com/
+klickly.com/
+rontar.com/
+klaviyo.com/
+giveaway.ninja/
+socialsnowball.io/
+sixads.net/
+pushowl.com/
+disconetwork.com/
+clean.gg/
+firepush.io/
+alliai.com/
+vitals.co/
+iubenda.com/
+kiflo.com/
+rawsoft.com/
+intergient.com/
+datadoghq-browser-agent.com/
+geoedge.be/
+
+#
+# porn ads / trackers
+#
+trafficjunky.com/
+trafficjunky.net/
+freeporngame.net/
+freesexgame.com/
+phncdn.com/pre_videos/
+camspacelive.com/
+justservingfiles.net/
+afcdn.net/
+vcmdiawe.com/
 
 #
 # most common trackers, sourced from:
@@ -253,7 +335,7 @@ addthiscdn.com/
 addthisedge.com/
 
 # shopify stats
-shopify.com/
+# shopify.com/
 
 # dotmetrics
 dotmetrics.net/
@@ -279,11 +361,19 @@ media.net/
 doubleverify.com/
 
 # hubspot
+cta-service-cms2.hubspot.com/
+hubspotfeedback.com/
+wtcfns.hubspot.com/
+no-cache.hubspot.com/
 hs-analytics.net/
 hs-scripts.com/
+hsappstatic.net/
+hs-banner.com/
 hsleadflows.net/
+hsadspixel.net/
 hubapi.com/
-hubspot.com/
+hsforms.com/
+# hubspot.com/
 
 # sharethrough
 shareth.ru/
@@ -705,7 +795,8 @@ cpx.to/
 pingdom.net/
 
 # adobe dynamic media
-scene7.com/
+# scene7.com/ 
+# 2024-01-20 --- put back in because it was being used as a cdn for too many stores  
 
 # exelate
 exelator.com/
